@@ -1,7 +1,6 @@
 //import { handleRequest } from './handler'
 
 import {FetchEvent,Request} from '@cloudflare/workers-types'
-import { HTTPRequest } from 'puppeteer'
 
 const base = "https://data.mejiaforcontroller.com"
 const statusCode = 308
