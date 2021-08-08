@@ -1,7 +1,7 @@
 name = "wwwdataredirect"
 type = "javascript"
 zone_id = ""
-account_id = ""
+account_id = "91c57d0651bc1d0ee9113e2e42096d7c"
 route = ""
 workers_dev = true
 
